@@ -1,25 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mainroad</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on Mainroad</description>
+    <title>Categories on Larisa Whishper Personal blog research</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Larisa Whishper Personal blog research</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 25 May 2025 18:03:57 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sound</title>
+      <link>http://localhost:1313/categories/sound/</link>
+      <pubDate>Sun, 25 May 2025 18:03:57 +0300</pubDate>
+      <guid>http://localhost:1313/categories/sound/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>InfoSecurity</title>
+      <link>http://localhost:1313/categories/infosecurity/</link>
+      <pubDate>Sun, 25 May 2025 17:59:51 +0300</pubDate>
+      <guid>http://localhost:1313/categories/infosecurity/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Development</title>
-      <link>//localhost:1313/categories/development/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/development/</guid>
+      <link>http://localhost:1313/categories/development/</link>
+      <pubDate>Sun, 25 May 2025 17:31:17 +0300</pubDate>
+      <guid>http://localhost:1313/categories/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intro</title>
+      <link>http://localhost:1313/categories/intro/</link>
+      <pubDate>Sun, 25 May 2025 17:26:31 +0300</pubDate>
+      <guid>http://localhost:1313/categories/intro/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>//localhost:1313/categories/golang/</link>
+      <link>http://localhost:1313/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/golang/</guid>
+      <guid>http://localhost:1313/categories/golang/</guid>
       <description></description>
     </item>
   </channel>
