@@ -20,7 +20,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
     verbose = false
     [markup.asciidocExt.attributes]
       my-attribute-name = 'My CV site where will presented my Projects and Blog'
-      my-base-url = 'https://slaveny.github.io/public'
+      my-base-url = 'https://slaveny.github.io'
       source-highlighter = 'rouge'   
 [Params]
   description = "My CV site where will presented my Projects and Blog" # Description of your site
@@ -30,7 +30,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
-  mainSections = ["post"]
+  mainSections = ["post,docs"]
   
 [Params.author]
 name = "Larisa Whishper"
