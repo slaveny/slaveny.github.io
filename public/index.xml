@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My CV site where will presented my Projects and Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My CV site where will presented my Projects and Blog</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 25 May 2025 11:44:28 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative</title>
+      <link>http://localhost:1313/post/creative/</link>
+      <pubDate>Sun, 25 May 2025 11:44:28 +0300</pubDate>
+      <guid>http://localhost:1313/post/creative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game Modding</title>
+      <link>http://localhost:1313/post/game-modding/</link>
+      <pubDate>Sun, 25 May 2025 11:43:22 +0300</pubDate>
+      <guid>http://localhost:1313/post/game-modding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Info Sercurity</title>
+      <link>http://localhost:1313/post/info-sercurity/</link>
+      <pubDate>Sun, 25 May 2025 11:42:59 +0300</pubDate>
+      <guid>http://localhost:1313/post/info-sercurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1C Prog</title>
+      <link>http://localhost:1313/post/1c-prog/</link>
+      <pubDate>Sun, 25 May 2025 11:42:30 +0300</pubDate>
+      <guid>http://localhost:1313/post/1c-prog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/post/development/</link>
+      <pubDate>Sun, 25 May 2025 11:41:30 +0300</pubDate>
+      <guid>http://localhost:1313/post/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Our website builds with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator and&#xA;&lt;a href=&#34;https://github.com/vimux/mainroad&#34;&gt;Mainroad&lt;/a&gt; theme. This demo allows you to see what Mainroad based website looks like&#xA;before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the&#xA;combination of Hugo and Mainroad can do.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-mainroad&#34;&gt;About Mainroad&lt;/h2&gt;&#xA;&lt;p&gt;Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
