@@ -61,7 +61,7 @@ jobs:
           # extended: true
 
       - name: Build with Hugo ${{ matrix.hugo }}
-        working-directory: exampleSite
+        working-directory: ../../public
         run: |
           function ver { printf "%03d%03d%03d" $(echo "$1" | tr '.' ' '); }
           HUGO_VERSION=$(hugo version | grep -Eo '[0-9]+\.[0-9]+((\.[0-9]+)?)')
