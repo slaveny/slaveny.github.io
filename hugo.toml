@@ -5,7 +5,7 @@ pagination.pagerSize = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-
+publishDir = "docs"
 
 [Params]
   description = "Larisa Whishper Personal blog research" # Description of your site
